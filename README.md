@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 Full stack web developer, expert in front-end
 - 👨🏼‍🎨 Highly experienced in UX/UX design
-- 🚀 Founder of TS&E Creative Studio
+- 🚀 Founder of TS&E software development studio
 - 🇺🇸 Based in Miami Beach, FL
 - 🇨🇴 Currently in Medellín, Colombia
 - 🐾 Proud dog-dad of a gorgeous french bulldog named Sky
