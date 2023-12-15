@@ -1,23 +1,13 @@
 ## About me
 
-- 👨🏼‍💻 Full stack web developer, expert in front-end
+- 👨🏼‍💻 Freelance software engineer, expert in front-end
 - 👨🏼‍🎨 Highly experienced in UX/UX design
-- 🚀 Founder of TS&E software development studio
 - 🇺🇸 Based in Miami Beach, FL
 - 🇨🇴 Currently in Medellín, Colombia
-- 🐾 Proud dog-dad of a gorgeous french bulldog named Sky
+- 🐾 Proud dog-dad of a gorgeous French Bulldog
 
-## My stats
+I'm a self-taught software engineer, specializing in meticulously crafting visually captivating user interfaces and constructing highly performant robust systems. My expertise spans a diverse range of engineering and IT roles, freelance consulting endeavors, and personal initiatives. From UI/UX design to full-stack web development, QA, and system architecture, my journey in this industry has been a continuous exploration. I have an unwavering dedication to deliver exceptional results to my clients. Let's embark on a collaborative journey to transform digital concepts into production-ready realities!
 
-[![Languages](https://github-readme-stats-jason-guro.vercel.app/api/top-langs/?username=jay-guro&hide_title=true&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/jay-guro)
+[![Languages](https://github-readme-stats-jason-guro.vercel.app/api/top-langs/?username=jay-guro&hide_title=true&hide=html,php,mdx,scss,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/jay-guro)
 
 [![Stats](https://github-readme-stats-jason-guro.vercel.app/api?username=jay-guro&count_private=true&hide_title=true&hide=stars,issues&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/jay-guro)
-
-<!-- Temporarily hiding this while GitHub fixes this bug                                
-| Year | Link to skylines |
-|------|------|
-| 2023 | [View skyline](https://skyline.github.com/jay-guro/2023) |
-| 2022 | [View skyline](https://skyline.github.com/jay-guro/2022) |
-| 2021 | [View skyline](https://skyline.github.com/jay-guro/2021) |
-| 2020 | [View skyline](https://skyline.github.com/jay-guro/2020) |
--->
