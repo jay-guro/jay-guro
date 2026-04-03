@@ -1,4 +1,4 @@
-# 👋 Jason Guro
+# 👋 Hey, I'm Jason
 
 Software Engineer • UI/UX • Systems Architect  
 
