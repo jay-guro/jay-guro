@@ -1,9 +1,3 @@
-# 👋 Hey, I'm Jason
-
-Software Engineer • UI/UX • Systems Architect  
-
-🇨🇴 Based in Medellín, Colombia
-
 ## Overview
 
 I design and build **scalable, production-grade systems** with a strong focus on user experience, performance, and long-term maintainability.
